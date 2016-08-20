@@ -1,40 +1,28 @@
+name: The Gamby Files
+favicon: null
+layout_spectrum: 0.48869781172834337
+typography_spectrum: 0.26329499762505293
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-layout_spectrum: 0.4886978117283434
-cta:
-  bucket: null
-  version: null
-  domain: null
 color:
-  saturation: 0.5508797285147011
-  brandStrength: 0.260460210731253
-  rhythmicContrast: 0.2440216697286814
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  lightness: 0.02688211319036782
+  brandStrength: 0.26046021073125303
+  lightness: 0.026882113190367818
+  saturation: 0.5508797285147011
+  rhythmicContrast: 0.24402166972868145
 purpose: []
-favicon: null
-name: The Gamby Files
-typography_spectrum: 0.2632949976250529
